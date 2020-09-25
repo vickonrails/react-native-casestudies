@@ -1,6 +1,6 @@
 # React Native Case Studies
 
-I've lately been reading case studies of companies using React Native to build complex apps for thousands of users. This repo is a collection of all those case studies all in one place. Enjoy and please send pull requests if you know of any informative RN case studies!
+I'm very new to react-native and mobile development. In this very short time, I've read lots of case studies of companies using React Native to build applications for thousands of users. This repo is a collection of all those case studies in one place. This is a growing list, so please send pull requests of any awesome RN case studies!
 
 > A few of the articles are old, but they are added anyways since most provide context about the company's past RN experience.
 
