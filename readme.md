@@ -17,16 +17,13 @@ I've lately been reading case studies of companies using React Native to build c
   - [Gyroscope](#gyroscope)
   - [Instagram](#instagram)
   - [Myntra](#myntra)
-  - [Skype](#skype)
   - [Pinterest](#pinterest)
   - [SoundCloud Pulse](#soundcloud-pulse)
   - [Shine](#shine)
-  - [Tesla](#tesla)
   - [Townske](#townske)
   - [Uber Eats](#uber-eats)
   - [Udacity](#udacity)
   - [Walmart](#walmart)
-  - [Yeti Smart Home](#yeti-smart-home)
 
 ---
 
